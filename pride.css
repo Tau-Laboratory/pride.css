@@ -1,6 +1,6 @@
 /*
 * pride.css
-* Version 1.0
+* Version 2.0
 *
 * Authored by Tau 
 */
@@ -21,12 +21,14 @@
     --progress-brown: #613915;
     --progress-black: #000000;
 
-    /* Lesbian Flag (5 Colors) */
-    --lesiban-sienna-1:  #D62800;
-    --lesbian-sienna-2:  #FF9B56;
+    /* Lesbian Flag (7 Colors) */
+    --lesiban-orange-1:  #D52D00;
+    --lesbian-orange-2:  #EF7627;
+    --lesbian-orange-3:  #FF9A56;
     --lesbian-white:     #FFFFFF;
-    --lesbian-magenta-1: #D462A6;
-    --lesbian-magenta-2: #A40062;
+    --lesbian-pink-1:    #D162A4;
+    --lesbian-pink-2:    #B55690;
+    --lesbian-pink-3:    #A30262;
 
     /* Gay Flag (7 Colors) */
     --gay-green-1: #078D70;
