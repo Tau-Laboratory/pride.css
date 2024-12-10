@@ -6,7 +6,7 @@
 */
 
 :root {
-    // Pride Flag
+    /* Pride Flag */
     --pride-red:    #E40303;
     --pride-orange: #FF8C00;
     --pride-yellow: #FFED00;
@@ -14,21 +14,21 @@
     --pride-blue:   #004CFF;
     --pride-purple: #732982;
 
-    // Progress Flag (Pride + )
+    /* Progress Flag (Pride + ) */
     --progress-white: #FFFFFF;
     --progress-pink:  #FFAFC8;
     --progress-blue:  #74D7EE;
     --progress-brown: #613915;
     --progress-black: #000000;
 
-    // Lesbian Flag (5 Colors)
+    /* Lesbian Flag (5 Colors) */
     --lesiban-sienna-1:  #D62800;
     --lesbian-sienna-2:  #FF9B56;
     --lesbian-white:     #FFFFFF;
     --lesbian-magenta-1: #D462A6;
     --lesbian-magenta-2: #A40062;
 
-    // Gay Flag (7 Colors)
+    /* Gay Flag (7 Colors) */
     --gay-green-1: #078D70;
     --gay-green-2: #26CEAA;
     --gay-green-3: #98E8C1;
@@ -37,40 +37,40 @@
     --gay-blue-2:  #5049CC;
     --gay-blue-1:  #3D1A78;
 
-    // Bi Flag
+    /* Bi Flag */
     --bi-pink:   #D60270;
     --bi-purple: #9B4F96;
     --bi-blue:   #0038A8;
     
-    // Trans Flag
+    /* Trans Flag */
     --trans-blue:  #5BCFFB;
     --trans-pink:  #F5ABB9;
     --trans-white: #FFFFFF;
 
-    // Pan Flag
+    /* Pan Flag */
     --pan-pink:   #FF1C8D;
     --pan-yellow: #FFD700;
     --pan-blue:   #1AB3FF;
 
-    // NB Flag 
+    /* NB Flag  */
     --nb-yellow: #FCF431;
     --nb-white:  #FCFCFC;
     --nb-purple: #9D59D2;
     --nb-black:  #282828;
 
-    // Agender Flag
+    /* Agender Flag */
     --agender-black: #000000;
     --agender-grey:  #BABABA;
     --agender-white: #000000;
     --agender-green: #BAF484;
 
-    // Ace Flag
+    /* Ace Flag */
     --ace-black:  #000000;
     --ace-grey:   #A4A4A4;
     --ace-white:  #FFFFFF;
     --ace-purple: #810081;
 
-    // Intersex Flax
+    /* Intersex Flag */
     --inter-yellow: #FFD800;
     --inter-purple: #7902AA;
 }
